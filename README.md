@@ -182,3 +182,14 @@ The following creators are acknowledged for their content:
   - Website: [www.poptravel.org](https://www.poptravel.org)
 
 Their works are highly appreciated.
+
+## Citation
+```
+@article{luginov2024nimbled,
+  title={NimbleD: Enhancing Self-supervised Monocular Depth Estimation with Pseudo-labels and Large-scale Video Pre-training},
+  author={Luginov, Albert and Shahzad, Muhammad},
+  journal={arXiv preprint arXiv:2408.14177},
+  year={2024}
+}
+```
+
