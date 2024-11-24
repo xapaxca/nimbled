@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+weights
+imagenet_pretrained_backbones
+pretrain_checkpoints
+finetune_checkpoints
+notes
+*.zip
+*.pth
+*.npz
+*.log
+datasets/make3d/data
+datasets/nyuv2/test
+datasets/kitti/data
+datasets/youtube/videos
+datasets/youtube/frames

@@ -1,0 +1,20 @@
+- name: 'driving'
+  target_fps: 5
+  drop_start: 120
+  drop_end: 30
+  processes: 16
+  compression: 1
+
+- name: 'city_walking'
+  target_fps: 5
+  drop_start: 150
+  drop_end: 30
+  processes: 16
+  compression: 1
+
+- name: 'hiking'
+  target_fps: 5
+  drop_start: 30
+  drop_end: 30
+  processes: 16
+  compression: 1
