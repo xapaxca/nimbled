@@ -153,7 +153,7 @@ python eval_make3d.py --data_dir MAKE3D_DATA_PATH --weights_dir WEIGHTS_PATH --m
 
 ## Acknowledgement
 
-The code is inspired by and builds upon the following works: [Monodepth2](https://github.com/nianticlabs/monodepth2), [Lite-Mono](https://github.com/noahzn/Lite-Mono), [SwiftFormer](https://github.com/Amshaker/SwiftFormer), [SwiftFormer](https://github.com/Amshaker/SwiftFormer),  [SwiftDepth](https://github.com/xapaxca/swiftdepth), [KBR](https://github.com/jspenmar/slowtv_monodepth), [DepthAnything](https://github.com/LiheYoung/Depth-Anything). 
+The code is inspired by and builds upon the following works: [Monodepth2](https://github.com/nianticlabs/monodepth2), [Lite-Mono](https://github.com/noahzn/Lite-Mono), [SwiftDepth](https://github.com/xapaxca/swiftdepth), [KBR](https://github.com/jspenmar/slowtv_monodepth), [DepthAnything](https://github.com/LiheYoung/Depth-Anything). 
 
 Thank you to the authors for their valuable contributions.
 
