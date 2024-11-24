@@ -109,6 +109,7 @@ python finetune_kitti.py --project_name PROJECT_NAME --model_name MODEL_NAME --d
 ```
 
 ## Weights
+- [**ImageNet Pre-trained Backbone Weights**](https://drive.google.com/file/d/1rFqeLLk0BjFom1kIbr8AHWG_1pyD8_8y)
 
 - [**YouTube Pre-trained Weights**](https://drive.google.com/file/d/1V05Bs21LkeN8px_3ObTo-c1IGnhizDMv)
 

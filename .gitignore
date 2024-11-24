@@ -1,7 +1,5 @@
 __pycache__
 *.pyc
-weights
-imagenet_pretrained_backbones
 pretrain_checkpoints
 finetune_checkpoints
 notes
